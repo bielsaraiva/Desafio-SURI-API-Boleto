@@ -4,13 +4,13 @@
       "id": "1",
       "nome": "Fatura de Julho",
       "valor": "R$ 260,35",
-      "link_pdf": "URL_PUBLICA_DO_SEU_PDF_DE_EXEMPLO_1"
+      "link_pdf": "https://raw.githubusercontent.com/bielsaraiva/Desafio-SURI-API-Boleto/main/boletos/fatura-11122233344-venc-2025-07-10.pdf"
     },
     {
       "id": "2",
       "nome": "Fatura de Agosto",
       "valor": "R$ 500,00",
-      "link_pdf": "URL_PUBLICA_DO_SEU_PDF_DE_EXEMPLO_2"
+      "link_pdf": "https://raw.githubusercontent.com/bielsaraiva/Desafio-SURI-API-Boleto/015d9ac5d9d2eb83e1c693a173c599cd805e6718/boletos/fatura-11122233344-venc-2025-08-10.pdf"
     }
   ],
   "55566677788": [
@@ -18,7 +18,7 @@
       "id": "3",
       "nome": "Fatura de Agosto",
       "valor": "R$ 1000,00",
-      "link_pdf": "URL_PUBLICA_DO_SEU_PDF_DE_EXEMPLO_3"
+      "link_pdf": "https://raw.githubusercontent.com/bielsaraiva/Desafio-SURI-API-Boleto/015d9ac5d9d2eb83e1c693a173c599cd805e6718/boletos/fatura-55566677788-venc-2025-08-10.pdf"
     }
   ]
 }
